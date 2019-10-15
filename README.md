@@ -1,5 +1,4 @@
-# sample-notebooks
-Sample notebooks for Jupyter Notebook application.
+# Project Keep with Domino on Jupyter notebooks
+EDA Jupyter notebooks using Project Keep API.
 <br>
-<br>Updated the requirements to install correctly on Python3.7.
-<br>Updated the ticker symbol to McDonalds.
+<br>Update the requirements to install correctly on Python3.7.

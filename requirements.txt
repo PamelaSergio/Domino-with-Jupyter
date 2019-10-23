@@ -2,4 +2,3 @@ matplotlib
 pandas
 pandas-datareader
 seaborn
-httpie

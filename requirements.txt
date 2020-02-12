@@ -4,4 +4,3 @@ pandas-datareader
 seaborn
 tensorflow
 opencv-python
-data

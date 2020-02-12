@@ -4,4 +4,4 @@ pandas-datareader
 seaborn
 tensorflow
 opencv-python
-libxrender
+libxrender1

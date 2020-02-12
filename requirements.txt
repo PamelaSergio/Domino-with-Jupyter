@@ -3,4 +3,3 @@ pandas
 pandas-datareader
 seaborn
 tensorflow
-cv2

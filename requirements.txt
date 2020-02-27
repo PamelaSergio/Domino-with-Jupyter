@@ -4,3 +4,4 @@ pandas-datareader
 seaborn
 tensorflow
 sklearn
+tensorflow_datasets

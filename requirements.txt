@@ -7,4 +7,3 @@ sklearn
 tensorflow_datasets
 trimesh
 tensorflow-graphics-gpu
-OpenEXR

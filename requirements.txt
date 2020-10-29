@@ -6,3 +6,4 @@ tensorflow
 sklearn
 tensorflow_datasets
 trimesh
+tensorflow_graphics

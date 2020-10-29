@@ -6,4 +6,4 @@ tensorflow
 sklearn
 tensorflow_datasets
 trimesh
-tfg
+tensorflow-graphics-gpu

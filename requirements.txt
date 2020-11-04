@@ -7,3 +7,6 @@ sklearn
 tensorflow_datasets
 trimesh
 tensorflow-graphics-gpu
+requests
+beautifulSoup
+build

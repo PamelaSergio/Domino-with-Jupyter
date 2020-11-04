@@ -9,4 +9,4 @@ trimesh
 tensorflow-graphics-gpu
 requests
 beautifulSoup4
-build
+google-api-python-client

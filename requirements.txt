@@ -10,3 +10,4 @@ tensorflow-graphics-gpu
 requests
 beautifulSoup4
 google-api-python-client
+numpy
